@@ -26,4 +26,4 @@ BMI Calculator is an iOS application that allows users to calculate their Body M
 ## Author
 Sandro Lomtadze
 
-# BMI_Calculator
+
